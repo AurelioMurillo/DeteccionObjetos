@@ -1,0 +1,26 @@
+<annotation>
+	<folder>polaros</folder>
+	<filename>P067.jpg</filename>
+	<path>/home/aurelio/Escritorio/polaros/P067.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Polar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>114</ymin>
+			<xmax>553</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

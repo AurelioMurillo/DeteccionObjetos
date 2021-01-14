@@ -1,0 +1,26 @@
+<annotation>
+	<folder>polaros</folder>
+	<filename>P184.png</filename>
+	<path>/home/aurelio/Escritorio/polaros/P184.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Polar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>38</ymin>
+			<xmax>259</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

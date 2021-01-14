@@ -1,0 +1,26 @@
+<annotation>
+	<folder>polaros</folder>
+	<filename>P135.png</filename>
+	<path>/home/aurelio/Escritorio/polaros/P135.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>453</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Polar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>30</ymin>
+			<xmax>368</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

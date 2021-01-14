@@ -1,0 +1,26 @@
+<annotation>
+	<folder>polaros</folder>
+	<filename>Y170.jpeg</filename>
+	<path>/home/aurelio/Escritorio/polaros/Y170.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2272</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aurelio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>1049</ymin>
+			<xmax>2163</xmax>
+			<ymax>3678</ymax>
+		</bndbox>
+	</object>
+</annotation>
